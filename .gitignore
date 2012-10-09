@@ -16,7 +16,6 @@ tmp/*
 .bundle
 *.log
 tmp/**/*
-Gemfile.lock
 doc/api
 doc/app
 *.swp
